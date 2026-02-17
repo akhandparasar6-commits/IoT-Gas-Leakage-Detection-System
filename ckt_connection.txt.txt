@@ -1,0 +1,10 @@
+NodeMCU Connections:
+
+MQ2 Sensor:
+VCC -> 5V
+GND -> GND
+A0  -> A0
+
+Buzzer:
+Positive -> D2
+Negative -> GND
