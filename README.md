@@ -35,3 +35,4 @@ To develop a real-time gas leakage detection system for safety applications usin
 Akhand Parasar  
 Electronics Engineering Student  
 Interested in IoT and Embedded Systems
+
